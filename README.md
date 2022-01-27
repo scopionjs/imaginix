@@ -1,2 +1,2 @@
 # imaginix
-this is a service which allows deloper or people to store images by uploading them to our api in base64 or by uploading directly our server created by joseph siame commonly know as scopion js
+this is a service which allows deloper or people to store images by uploading them to our api in base64 or by uploading directly our server created by joseph siame commonly know as scopion js 
